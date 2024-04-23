@@ -20,7 +20,7 @@ El participante podrá mostrar sus habilidades básicas de programación para re
 
 ## Requerimientos
 
-Deberás desarrollar una aplicación web que se comunique con una API de autenticación, creación, edición y eliminación de usuarios. El endpoint es [authchallenge-202404.up.railway.app](authchallenge-202404.up.railway.app). Puedes entrar a la [documentación](authchallenge-202404.up.railway.app/redoc) o al [swagger](authchallenge-202404.up.railway.app/docs) para saber como comunicarte con la API.
+Deberás desarrollar una aplicación web que se comunique con una API de autenticación, creación, edición y eliminación de usuarios. El endpoint es [authchallenge-202404.up.railway.app](https://authchallenge-202404.up.railway.app). Puedes entrar a la [documentación](https://authchallenge-202404.up.railway.app/redoc) o al [swagger](https://authchallenge-202404.up.railway.app/docs) para saber como comunicarte con la API.
 
 
 
