@@ -32,6 +32,17 @@ Permite a los usuarios registrarse e iniciar sesión con un token, una vez en el
 - Se realizan validaciones en el formulario de edición para garantizar que todos los campos estén completos antes de guardar los cambios.
 - Se realiza una solicitud a la API de actualización de usuarios para guardar los cambios en el perfil.
 
+## Requisitos previos
+
+- Node.js (versión 12 o superior)
+- npm (viene incluido con Node.js)
+
+Antes de instalar la aplicación, asegúrate de tener instalado Node.js y npm en tu sistema. Puedes descargar la versión más reciente de Node.js desde el sitio oficial: https://nodejs.org/
+
+## Variables de entorno
+
+Esta aplicación se conecta a una API de autenticación de usuarios que requiere una clave (API key) única para cada usuario. Si bien no es necesario configurar variables de entorno para ejecutar la aplicación localmente, es posible que debas proporcionar tu propia clave API para realizar operaciones de autenticación.
+
 ## Instalación y Uso
 
 1. Crea un clone de este repositorio en tu máquina local.
